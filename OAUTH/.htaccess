@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /Secure/OAUTH/
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ Access.php [QSA,L]

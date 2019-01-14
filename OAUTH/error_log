@@ -1,0 +1,32 @@
+[18-Apr-2016 15:54:48 America/Detroit] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'anpac_cody'@'localhost' to database 'oauth2'' in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php:53
+Stack trace:
+#0 /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php(53): PDO->__construct('mysql:dbname=oa...', 'anpac_cody', 'skiutah4969', Array)
+#1 /home/anpac/public_html/Secure/OAUTH/server.php(14): OAuth2\Storage\Pdo->__construct(Array)
+#2 {main}
+  thrown in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php on line 53
+[18-Apr-2016 16:09:03 America/Detroit] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'anpac_cody'@'localhost' to database 'oauth2'' in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php:53
+Stack trace:
+#0 /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php(53): PDO->__construct('mysql:dbname=oa...', 'anpac_cody', 'skiutah4969', Array)
+#1 /home/anpac/public_html/Secure/OAUTH/server.php(14): OAuth2\Storage\Pdo->__construct(Array)
+#2 /home/anpac/public_html/Secure/OAUTH/token.php(3): require_once('/home/anpac/pub...')
+#3 {main}
+  thrown in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php on line 53
+[18-Apr-2016 16:11:37 America/Detroit] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'anpac_cody'@'localhost' to database 'oauth2'' in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php:53
+Stack trace:
+#0 /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php(53): PDO->__construct('mysql:host=loca...', 'anpac_cody', 'skiutah4969', Array)
+#1 /home/anpac/public_html/Secure/OAUTH/server.php(14): OAuth2\Storage\Pdo->__construct(Array)
+#2 /home/anpac/public_html/Secure/OAUTH/token.php(3): require_once('/home/anpac/pub...')
+#3 {main}
+  thrown in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php on line 53
+[18-Apr-2016 16:12:25 America/Detroit] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'anpac_cody'@'%' to database 'oauth2'' in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php:53
+Stack trace:
+#0 /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php(53): PDO->__construct('mysql:host=john...', 'anpac_cody', 'skiutah4969', Array)
+#1 /home/anpac/public_html/Secure/OAUTH/server.php(14): OAuth2\Storage\Pdo->__construct(Array)
+#2 /home/anpac/public_html/Secure/OAUTH/token.php(3): require_once('/home/anpac/pub...')
+#3 {main}
+  thrown in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Storage/Pdo.php on line 53
+[19-Apr-2016 17:08:24 America/Detroit] PHP Notice:  Undefined variable: db in /home/anpac/public_html/Secure/OAUTH/Access.php on line 27
+[19-Apr-2016 17:10:07 America/Detroit] PHP Notice:  Undefined variable: db in /home/anpac/public_html/Secure/OAUTH/Access.php on line 27
+[20-Apr-2016 18:43:50 America/Detroit] PHP Parse error:  syntax error, unexpected ',' in /home/anpac/public_html/Secure/OAUTH/Access.php on line 11
+[22-Apr-2016 20:26:44 America/Detroit] PHP Fatal error:  Class 'OAuth2\GrantType\RefreshCredentials' not found in /home/anpac/public_html/Secure/OAUTH/Access.php on line 16
+[22-Apr-2016 20:29:47 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/anpac/public_html/Secure/OAUTH/Access.php on line 16

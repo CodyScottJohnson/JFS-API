@@ -1,0 +1,132 @@
+[18-Apr-2016 11:00:22 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:22 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:26 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:00:26 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:02:21 America/Detroit] PHP Warning:  require(/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php): failed to open stream: No such file or directory in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 11:02:21 America/Detroit] PHP Fatal error:  require(): Failed opening required '/Applications/MAMP/htdocs/JohnsonFinancialService/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 12:37:10 America/Detroit] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in /home/anpac/public_html/Secure/API/test.php on line 58
+[18-Apr-2016 12:48:45 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Request::put() in /home/anpac/public_html/Secure/API/test.php on line 44
+[18-Apr-2016 12:49:36 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/anpac/public_html/Secure/API/test.php on line 54
+[18-Apr-2016 12:49:54 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/anpac/public_html/Secure/API/test.php on line 45
+[18-Apr-2016 12:51:51 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Request::put() in /home/anpac/public_html/Secure/API/test.php on line 44
+[18-Apr-2016 12:52:22 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Request::put() in /home/anpac/public_html/Secure/API/test.php on line 44
+[18-Apr-2016 12:53:11 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/anpac/public_html/Secure/API/test.php on line 54
+[18-Apr-2016 12:53:52 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/anpac/public_html/Secure/API/test.php on line 54
+[18-Apr-2016 12:56:50 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Request::getPost() in /home/anpac/public_html/Secure/API/test.php on line 44
+[18-Apr-2016 12:57:36 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Request::getPost() in /home/anpac/public_html/Secure/API/test.php on line 44
+[18-Apr-2016 12:58:44 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Request::getPatch() in /home/anpac/public_html/Secure/API/test.php on line 44
+[18-Apr-2016 12:59:24 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Request::patch() in /home/anpac/public_html/Secure/API/test.php on line 44
+[18-Apr-2016 13:00:58 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Request::getContents() in /home/anpac/public_html/Secure/API/test.php on line 44
+[18-Apr-2016 13:02:20 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, string given, called in /home/anpac/public_html/Secure/API/test.php on line 45 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[18-Apr-2016 13:04:32 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, string given, called in /home/anpac/public_html/Secure/API/test.php on line 45 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[18-Apr-2016 13:15:27 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, object given, called in /home/anpac/public_html/Secure/API/test.php on line 46 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[18-Apr-2016 13:21:56 America/Detroit] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 48
+[18-Apr-2016 13:22:11 America/Detroit] PHP Fatal error:  Call to a member function getContents() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 48
+[18-Apr-2016 13:52:16 America/Detroit] PHP Fatal error:  Call to undefined method NotORM_Result::RecruitInfo() in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 484
+[18-Apr-2016 13:53:09 America/Detroit] PHP Parse error:  syntax error, unexpected '/' in /home/anpac/public_html/Secure/API/test.php on line 25
+[18-Apr-2016 14:01:49 America/Detroit] PHP Parse error:  syntax error, unexpected '/' in /home/anpac/public_html/Secure/API/test.php on line 25
+[18-Apr-2016 14:12:30 America/Detroit] PHP Fatal error:  Call to a member function where() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 24
+[18-Apr-2016 14:16:31 America/Detroit] PHP Fatal error:  Call to a member function select() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 24
+[18-Apr-2016 14:18:05 America/Detroit] PHP Parse error:  syntax error, unexpected ''Info'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/anpac/public_html/Secure/API/test.php on line 27
+[18-Apr-2016 14:26:40 America/Detroit] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE), expecting ',' or ';' in /home/anpac/public_html/Secure/API/test.php on line 27
+[18-Apr-2016 14:46:25 America/Detroit] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/anpac/public_html/Secure/API/test.php on line 27
+[18-Apr-2016 14:46:39 America/Detroit] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/anpac/public_html/Secure/API/test.php on line 27
+[18-Apr-2016 17:34:35 America/Detroit] PHP Fatal error:  Call to undefined function setUser() in /home/anpac/public_html/Secure/API/test.php on line 40
+[18-Apr-2016 18:10:33 America/Detroit] PHP Fatal error:  Call to a member function verifyResourceRequest() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 5
+[18-Apr-2016 18:12:12 America/Detroit] PHP Fatal error:  Call to a member function verifyResourceRequest() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 5
+[18-Apr-2016 18:12:48 America/Detroit] PHP Fatal error:  Call to a member function verifyResourceRequest() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 5
+[18-Apr-2016 18:17:57 America/Detroit] PHP Fatal error:  Call to a member function verifyResourceRequest() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 5
+[18-Apr-2016 18:20:56 America/Detroit] PHP Fatal error:  Call to a member function verifyResourceRequest() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 5
+[18-Apr-2016 20:16:41 America/Detroit] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 20:16:55 America/Detroit] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 20:17:07 America/Detroit] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 20:17:17 America/Detroit] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 20:17:40 America/Detroit] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/anpac/public_html/Secure/API/test.php on line 3
+[18-Apr-2016 20:17:53 America/Detroit] PHP Fatal error:  Class 'Slim\App' not found in /home/anpac/public_html/Secure/API/test.php on line 2
+[18-Apr-2016 20:17:56 America/Detroit] PHP Fatal error:  Class 'Slim\App' not found in /home/anpac/public_html/Secure/API/test.php on line 2
+[18-Apr-2016 20:18:30 America/Detroit] PHP Fatal error:  Class 'Slim\App' not found in /home/anpac/public_html/Secure/API/test.php on line 2
+[18-Apr-2016 20:19:17 America/Detroit] PHP Fatal error:  Class 'CorsSlim\CorsSlim' not found in /home/anpac/public_html/Secure/API/test.php on line 11
+[18-Apr-2016 20:20:13 America/Detroit] PHP Fatal error:  Class 'CorsSlim\CorsSlim' not found in /home/anpac/public_html/Secure/API/test.php on line 11
+[18-Apr-2016 20:21:49 America/Detroit] PHP Fatal error:  Class 'CorsSlim\CorsSlim' not found in /home/anpac/public_html/Secure/API/test.php on line 11
+[18-Apr-2016 20:22:09 America/Detroit] PHP Fatal error:  Class 'CorsSlim\CorsSlim' not found in /home/anpac/public_html/Secure/API/test.php on line 11
+[18-Apr-2016 20:24:26 America/Detroit] PHP Fatal error:  Class 'CorsSlim\CorsSlim' not found in /home/anpac/public_html/Secure/API/test.php on line 39
+[18-Apr-2016 21:37:19 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to OAuth2\Server::grantAccessToken() must be an instance of OAuth2\RequestInterface, instance of Slim\Http\Request given, called in /home/anpac/public_html/Secure/API/test.php on line 44 and defined in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php on line 264
+[18-Apr-2016 21:37:28 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to OAuth2\Server::grantAccessToken() must be an instance of OAuth2\RequestInterface, instance of Slim\Http\Request given, called in /home/anpac/public_html/Secure/API/test.php on line 44 and defined in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php on line 264
+[18-Apr-2016 21:39:08 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to OAuth2\Server::grantAccessToken() must be an instance of OAuth2\RequestInterface, instance of Slim\Http\Request given, called in /home/anpac/public_html/Secure/API/test.php on line 44 and defined in /home/anpac/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php on line 264
+[18-Apr-2016 21:46:59 America/Detroit] PHP Fatal error:  Call to a member function send() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 45
+[18-Apr-2016 21:47:06 America/Detroit] PHP Fatal error:  Call to a member function send() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 45
+[18-Apr-2016 22:34:18 America/Detroit] PHP Notice:  Use of undefined constant context - assumed 'context' in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:34:18 America/Detroit] PHP Notice:  Use of undefined constant Response - assumed 'Response' in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:34:18 America/Detroit] PHP Notice:  Use of undefined constant Headers - assumed 'Headers' in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:34:18 America/Detroit] PHP Fatal error:  Call to undefined function Contains() in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:36:08 America/Detroit] PHP Notice:  Use of undefined constant context - assumed 'context' in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:36:08 America/Detroit] PHP Notice:  Use of undefined constant Response - assumed 'Response' in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:36:08 America/Detroit] PHP Notice:  Use of undefined constant Headers - assumed 'Headers' in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:36:08 America/Detroit] PHP Fatal error:  Call to undefined function Contains() in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:37:13 America/Detroit] PHP Notice:  Use of undefined constant context - assumed 'context' in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:37:13 America/Detroit] PHP Notice:  Use of undefined constant Response - assumed 'Response' in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:37:13 America/Detroit] PHP Notice:  Use of undefined constant Headers - assumed 'Headers' in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 22:37:13 America/Detroit] PHP Fatal error:  Call to undefined function Contains() in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 23:04:27 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/anpac/public_html/Secure/API/test.php on line 53
+[18-Apr-2016 23:05:59 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/anpac/public_html/Secure/API/test.php on line 53
+[18-Apr-2016 23:14:00 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/anpac/public_html/Secure/API/test.php on line 52
+[18-Apr-2016 23:14:25 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/anpac/public_html/Secure/API/test.php on line 52
+[18-Apr-2016 23:15:19 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/anpac/public_html/Secure/API/test.php on line 52
+[18-Apr-2016 23:15:52 America/Detroit] PHP Notice:  Undefined variable: db in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 23:15:52 America/Detroit] PHP Fatal error:  Call to a member function ReqruitingSummary() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 23:16:09 America/Detroit] PHP Notice:  Undefined variable: db in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 23:16:09 America/Detroit] PHP Fatal error:  Call to a member function ReqruitingSummary() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 23:16:21 America/Detroit] PHP Notice:  Undefined variable: db in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 23:16:21 America/Detroit] PHP Fatal error:  Call to a member function ReqruitingSummary() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 23:17:19 America/Detroit] PHP Notice:  Undefined variable: db in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 23:17:19 America/Detroit] PHP Fatal error:  Call to a member function ReqruitingSummary() on a non-object in /home/anpac/public_html/Secure/API/test.php on line 46
+[18-Apr-2016 23:18:38 America/Detroit] PHP Notice:  Undefined variable: newresponse in /home/anpac/public_html/Secure/API/test.php on line 50
+[18-Apr-2016 23:21:58 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Response::getStatus() in /home/anpac/public_html/Secure/API/test.php on line 48
+[18-Apr-2016 23:22:30 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Response::getStatus() in /home/anpac/public_html/Secure/API/test.php on line 48
+[18-Apr-2016 23:30:39 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/anpac/public_html/Secure/API/test.php on line 48
+[18-Apr-2016 23:30:55 America/Detroit] PHP Fatal error:  Call to undefined method Slim\Http\Response::setStatus() in /home/anpac/public_html/Secure/API/test.php on line 48
+[20-Apr-2016 11:58:07 America/Detroit] PHP Notice:  Trying to get property of non-object in /home/anpac/public_html/Secure/API/APIRoute.php on line 136
+[20-Apr-2016 11:58:07 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, null given, called in /home/anpac/public_html/Secure/API/APIRoute.php on line 136 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[20-Apr-2016 12:00:17 America/Detroit] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/anpac/public_html/Secure/API/APIRoute.php on line 129
+[20-Apr-2016 12:00:20 America/Detroit] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/anpac/public_html/Secure/API/APIRoute.php on line 129
+[20-Apr-2016 12:00:36 America/Detroit] PHP Notice:  Trying to get property of non-object in /home/anpac/public_html/Secure/API/APIRoute.php on line 137
+[20-Apr-2016 12:00:36 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, null given, called in /home/anpac/public_html/Secure/API/APIRoute.php on line 137 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[20-Apr-2016 12:04:32 America/Detroit] PHP Notice:  Trying to get property of non-object in /home/anpac/public_html/Secure/API/APIRoute.php on line 137
+[20-Apr-2016 12:04:51 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/anpac/public_html/Secure/API/APIRoute.php on line 137
+[20-Apr-2016 12:09:25 America/Detroit] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/anpac/public_html/Secure/API/APIRoute.php on line 127
+[22-Apr-2016 16:03:34 America/Detroit] PHP Notice:  Undefined variable: server in /home/anpac/public_html/Secure/API/APIRoute.php on line 40
+[22-Apr-2016 16:03:34 America/Detroit] PHP Fatal error:  Call to a member function getAccessTokenData() on a non-object in /home/anpac/public_html/Secure/API/APIRoute.php on line 40
+[22-Apr-2016 16:04:12 America/Detroit] PHP Notice:  Undefined variable: checkToken in /home/anpac/public_html/Secure/API/APIRoute.php on line 42
+[22-Apr-2016 16:04:12 America/Detroit] PHP Fatal error:  Call to a member function getStatusCode() on a non-object in /home/anpac/public_html/Secure/API/APIRoute.php on line 42
+[22-Apr-2016 16:04:46 America/Detroit] PHP Fatal error:  Call to a member function getStatusCode() on a non-object in /home/anpac/public_html/Secure/API/APIRoute.php on line 42
+[22-Apr-2016 16:08:57 America/Detroit] PHP Fatal error:  Call to undefined method NotORM_Result::fetchALL() in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 484
+[22-Apr-2016 16:09:12 America/Detroit] PHP Fatal error:  Call to undefined method NotORM_Result::fetchAll() in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 484
+[23-Apr-2016 01:02:05 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, null given, called in /home/anpac/public_html/Secure/API/APIRoute.php on line 148 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[23-Apr-2016 01:14:16 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, null given, called in /home/anpac/public_html/Secure/API/APIRoute.php on line 148 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[23-Apr-2016 10:01:53 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, null given, called in /home/anpac/public_html/Secure/API/APIRoute.php on line 148 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[23-Apr-2016 11:34:38 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, null given, called in /home/anpac/public_html/Secure/API/APIRoute.php on line 148 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[23-Apr-2016 21:08:54 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, null given, called in /home/anpac/public_html/Secure/API/APIRoute.php on line 148 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[24-Apr-2016 15:14:36 America/Detroit] PHP Catchable fatal error:  Argument 1 passed to NotORM_Result::update() must be of the type array, null given, called in /home/anpac/public_html/Secure/API/APIRoute.php on line 148 and defined in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 269
+[29-Apr-2016 17:19:08 America/Detroit] PHP Parse error:  syntax error, unexpected '&', expecting ',' or ')' in /home/anpac/public_html/Secure/API/APIRoute.php on line 77
+[29-Apr-2016 17:19:15 America/Detroit] PHP Parse error:  syntax error, unexpected '&', expecting ',' or ')' in /home/anpac/public_html/Secure/API/APIRoute.php on line 77
+[29-Apr-2016 17:20:22 America/Detroit] PHP Notice:  Trying to get property of non-object in /home/anpac/public_html/Secure/API/APIRoute.php on line 79
+[02-May-2016 16:54:20 America/Detroit] PHP Fatal error:  Call to undefined method NotORM_Result::uc_users() in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 484
+[02-May-2016 16:57:14 America/Detroit] PHP Fatal error:  Call to undefined method NotORM_Result::join() in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 484
+[02-May-2016 16:57:55 America/Detroit] PHP Fatal error:  Call to undefined method NotORM_Result::join() in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 484
+[02-May-2016 17:02:26 America/Detroit] PHP Fatal error:  Call to undefined method NotORM_Result::join() in /home/anpac/vendor/vrana/notorm/NotORM/Result.php on line 484
